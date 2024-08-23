@@ -21,11 +21,11 @@
     ```
 
 ## Usage
-# USe the link and directly land to the page
+# Use the link and directly land to the page
 1. Start the Telegram bot.
 2. Use the `/create` command to generate a link.
 3. Visit the link to see your Telegram User ID.
 
 ## Bot Username
-
-Your bot's username: **@YourBotUsername**
+Link: t.me/AlfredoABC_bot
+Bot's username: **@AlfredoABC_bot**
